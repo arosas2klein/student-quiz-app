@@ -5,12 +5,10 @@ import pandas as pd
 import datetime
 import os
 
-# --- 1. CONFIGURATION & DATA ---
-# Pre-defined students (Hashed passwords for 'student1', 'student2', 'student3')
-USERS = {
-    "arosas2": "860425&", 
-    "jane_smith": "4880949d298319f2a96934c7c729c7b95f19036c0a76742542a22216503c004d"
-}
+# Load users from the CSV file
+user_df = pd.read_csv("users.csv")
+# This creates a dictionary where the username is the key and password is the value
+USERS = dict(zip(user_df['username'].astype(str), user_df['password'].astype(str)))
 
 import pandas as pd
 

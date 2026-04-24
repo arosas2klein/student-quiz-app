@@ -99,3 +99,413 @@ Test Name,Question,Option A,Option B,Option C,Correct Answer
 5 Special Requirements,The maximum speed for a school bus on a highway is:,50 mph,60 mph,70 mph,60 mph
 5 Special Requirements,A trailer breakaway brake must hold for at least:,5 minutes,10 minutes,15 minutes,15 minutes
 5 Special Requirements,Who is responsible for knowing these special requirements?,The mechanic,The owner of the truck,The driver,The driver
+1 General Knowledge,What is the most important reason for doing a vehicle inspection?,Safety for yourself and other road users,To keep your insurance rates low,To avoid being flagged by weigh stations,Safety for yourself and other road users
+1 General Knowledge,Which of these is a key part of the steering system?,Steering knuckle,Leaf spring,Main air reservoir,Steering knuckle
+1 General Knowledge,What is the minimum tread depth for front tires?,1/16 inch,4/32 inch,2/32 inch,4/32 inch
+1 General Knowledge,What is the minimum tread depth for all tires EXCEPT the front tires?,2/32 inch,1/8 inch,4/32 inch,2/32 inch
+1 General Knowledge,Rust streaks around wheel nuts may indicate:,The nuts are loose,The rims are made of steel,The tires are over-inflated,The nuts are loose
+1 General Knowledge,How much 'play' should a fan belt have when you push on it?,No play at all,Up to 3/4 of an inch,At least 2 inches,Up to 3/4 of an inch
+1 General Knowledge,What is a specific danger of a cracked or leaky exhaust system?,The transmission will overheat,The engine will lose all horsepower,Poisonous fumes can enter the cab,Poisonous fumes can enter the cab
+1 General Knowledge,"When checking your lights, the engine should be:",Off,Idling,Running at high RPM,Off
+1 General Knowledge,Why should you use a helper when backing?,They can see the 'blind spots' you can't,They can help you shift gears,They are required by federal law,They can see the 'blind spots' you can't
+1 General Knowledge,Which way do you turn the wheel to make the trailer go left when backing?,Keep it centered,To the right,To the left,To the right
+1 General Knowledge,What is 'double clutching'?,Shifting without using the clutch at all,Using two feet on the clutch pedal,Releasing and pressing the clutch twice per shift,Releasing and pressing the clutch twice per shift
+1 General Knowledge,When should you downshift on a long hill?,Halfway down the grade,Only if you reach the speed limit,Before you start down the grade,Before you start down the grade
+1 General Knowledge,What are 'retarders' designed to do?,Provide extra power for climbing hills,Help slow the vehicle without using the service brakes,Prevent the wheels from locking during a skid,Help slow the vehicle without using the service brakes
+1 General Knowledge,"When the road is slippery, you should ________ the retarder.",Keep on low power,Turn off,Turn on,Turn off
+1 General Knowledge,How far ahead should a driver look while driving?,12 to 15 seconds,At least one mile,3 to 5 seconds,12 to 15 seconds
+1 General Knowledge,"In the city, looking '12 to 15 seconds ahead' is about:",Three blocks,One block,One mile,One block
+1 General Knowledge,When should you check your mirrors?,Once every 5 minutes,Only when you hear a horn,Before and after every lane change or turn,Before and after every lane change or turn
+1 General Knowledge,What is 'convex' mirror useful for?,It provides a wider view than a flat mirror,It eliminates all blind spots,It makes objects look closer than they are,It provides a wider view than a flat mirror
+1 General Knowledge,"When you signal a turn, you should:",Signal exactly as you start to turn,Signal early and leave it on until the turn is done,Tap the brakes to signal instead,Signal early and leave it on until the turn is done
+1 General Knowledge,"If you double your speed, your braking distance increases by:",2 times,3 times,4 times,4 times
+1 General Knowledge,What is 'perception distance'?,The distance traveled from the time you see a hazard until you recognize it,The distance traveled while your foot moves to the brake,The distance it takes to stop the truck,The distance traveled from the time you see a hazard until you recognize it
+1 General Knowledge,Empty trucks usually require ________ stopping distance than full trucks.,Greater,Shorter,The exact same,Greater
+1 General Knowledge,What is 'hydroplaning'?,Driving a truck onto a ferry boat,When tires lose contact with the road and float on a layer of water,Using air brakes in the rain,When tires lose contact with the road and float on a layer of water
+1 General Knowledge,What is the best way to keep a 'space cushion' in front of you?,By driving in the left lane,By flashing your high beams at slow cars,By adjusting your following distance,By adjusting your following distance
+1 General Knowledge,"If you are being tailgated, you should:",Increase your following distance in front,Speed up to match their speed,Slam on your brakes to scare them,Increase your following distance in front
+1 General Knowledge,How much space do you need overhead?,Five feet of clearance,The height of the truck exactly,At least one foot of clearance,At least one foot of clearance
+1 General Knowledge,What defines a 'hazard'?,A police car with lights on,Only an accident that has already happened,Any road condition or user that is a possible danger,Any road condition or user that is a possible danger
+1 General Knowledge,Why is it important to identify hazards early?,So you have time to plan a way around them,To report them to the DOT,So you can honk your horn at them,So you have time to plan a way around them
+1 General Knowledge,A 'distracted driver' is:,Someone driving too fast,A hazard,Always a professional driver,A hazard
+1 General Knowledge,Why is night driving more dangerous?,Visibility is limited,The air is colder,Tires wear out faster,Visibility is limited
+1 General Knowledge,"When driving at night, you should dim your high beams within ___ feet of an oncoming vehicle.",200,500,"1,000",500
+1 General Knowledge,"If an oncoming driver does not dim their high beams, you should:",Close your eyes briefly,Turn on your high beams to show them,Look at the right side of the road (white line),Look at the right side of the road (white line)
+1 General Knowledge,"When driving in winter, you should check your tires:",Every time you stop,Once a day,Only if they look flat,Every time you stop
+1 General Knowledge,What should you do if the engine coolant temperature rises rapidly?,Stop and let the engine cool before checking it,Drive faster to increase airflow,Open the radiator cap immediately,Stop and let the engine cool before checking it
+1 General Knowledge,The 'safe speed' on a long downgrade is determined by:,The posted car speed limit,"Weight of vehicle, steepness, and road conditions",How fast the driver behind you is going,"Weight of vehicle, steepness, and road conditions"
+1 General Knowledge,Using the brakes too much on a long downgrade causes:,Brake fade,Tire blowouts,Engine stall,Brake fade
+1 General Knowledge,What is the proper braking technique on a steep grade?,Constant light pressure,Pumping the brakes as fast as possible,"Apply brakes until 5 mph below safe speed, then release","Apply brakes until 5 mph below safe speed, then release"
+1 General Knowledge,What is the most common cause of a 'drive-wheel' skid?,Low tire pressure,Braking too hard or accelerating too hard,Turning the wheel too fast,Braking too hard or accelerating too hard
+1 General Knowledge,"To correct a drive-wheel braking skid, you should:",Brake harder,Accelerate quickly,Stop braking and counter-steer,Stop braking and counter-steer
+1 General Knowledge,What happens when front wheels skid?,The steering becomes very sensitive,The vehicle tends to keep moving in a straight line,The trailer will 'jackknife' immediately,The vehicle tends to keep moving in a straight line
+1 General Knowledge,What is the first thing to do at an accident scene?,Protect the area (prevent further accidents),Move the injured people immediately,Call your boss,Protect the area (prevent further accidents)
+1 General Knowledge,Where should you aim a fire extinguisher when fighting a fire?,At the base of the fire,All over the vehicle,At the top of the flames,At the base of the fire
+1 General Knowledge,Which fire can you use water on?,Tire fires,Electrical fires,Fuel fires,Tire fires
+1 General Knowledge,What is the only thing that can sober up a person?,Black coffee,Time,A cold shower,Time
+1 General Knowledge,A BAC of _____ or higher means you are legally 'under the influence' in a CMV.,0.01,0.04,0.08,0.04
+1 General Knowledge,"If you lose your CDL for one year, it is usually because:",Having a burnt-out headlight,Speeding 5 mph over,DUI or leaving the scene of an accident,DUI or leaving the scene of an accident
+1 General Knowledge,Who is responsible for inspecting the cargo?,The shipper,The driver,The state trooper,The driver
+1 General Knowledge,How often should you check your cargo tie-downs?,"Within the first 50 miles, then every 3 hours or 150 miles",Once every 500 miles,Only at the end of the day,"Within the first 50 miles, then every 3 hours or 150 miles"
+1 General Knowledge,What is 'Gross Combination Weight' (GCW)?,The weight of the truck only,"Total weight of the power unit, the trailer, and the cargo",The maximum weight the axle can hold,"Total weight of the power unit, the trailer, and the cargo"
+1 General Knowledge,What is the most important reason for doing a vehicle inspection?,Safety for yourself and other road users,To avoid being flagged by weigh stations,To keep your insurance rates low,Safety for yourself and other road users
+2 General Knowledge,Which of these is a key part of the steering system?,Main air reservoir,Leaf spring,Steering knuckle,Steering knuckle
+2 General Knowledge,What is the minimum tread depth for front tires?,1/16 inch,4/32 inch,2/32 inch,4/32 inch
+2 General Knowledge,What is the minimum tread depth for all tires EXCEPT the front tires?,2/32 inch,4/32 inch,1/8 inch,2/32 inch
+2 General Knowledge,Rust streaks around wheel nuts may indicate:,The nuts are loose,The rims are made of steel,The tires are over-inflated,The nuts are loose
+2 General Knowledge,How much 'play' should a fan belt have when you push on it?,No play at all,Up to 3/4 of an inch,At least 2 inches,Up to 3/4 of an inch
+2 General Knowledge,What is a specific danger of a cracked or leaky exhaust system?,The engine will lose all horsepower,Poisonous fumes can enter the cab,The transmission will overheat,Poisonous fumes can enter the cab
+2 General Knowledge,"When checking your lights, the engine should be:",Idling,Running at high RPM,Off,Off
+2 General Knowledge,Why should you use a helper when backing?,They can see the 'blind spots' you can't,They are required by federal law,They can help you shift gears,They can see the 'blind spots' you can't
+2 General Knowledge,Which way do you turn the wheel to make the trailer go left when backing?,To the right,To the left,Keep it centered,To the right
+2 General Knowledge,What is 'double clutching'?,Using two feet on the clutch pedal,Releasing and pressing the clutch twice per shift,Shifting without using the clutch at all,Releasing and pressing the clutch twice per shift
+2 General Knowledge,When should you downshift on a long hill?,Before you start down the grade,Only if you reach the speed limit,Halfway down the grade,Before you start down the grade
+2 General Knowledge,What are 'retarders' designed to do?,Provide extra power for climbing hills,Help slow the vehicle without using the service brakes,Prevent the wheels from locking during a skid,Help slow the vehicle without using the service brakes
+2 General Knowledge,"When the road is slippery, you should ________ the retarder.",Keep on low power,Turn on,Turn off,Turn off
+2 General Knowledge,How far ahead should a driver look while driving?,3 to 5 seconds,12 to 15 seconds,At least one mile,12 to 15 seconds
+2 General Knowledge,"In the city, looking '12 to 15 seconds ahead' is about:",Three blocks,One mile,One block,One block
+2 General Knowledge,When should you check your mirrors?,Before and after every lane change or turn,Once every 5 minutes,Only when you hear a horn,Before and after every lane change or turn
+2 General Knowledge,What is 'convex' mirror useful for?,It eliminates all blind spots,It provides a wider view than a flat mirror,It makes objects look closer than they are,It provides a wider view than a flat mirror
+2 General Knowledge,"When you signal a turn, you should:",Signal exactly as you start to turn,Tap the brakes to signal instead,Signal early and leave it on until the turn is done,Signal early and leave it on until the turn is done
+2 General Knowledge,"If you double your speed, your braking distance increases by:",2 times,3 times,4 times,4 times
+2 General Knowledge,What is 'perception distance'?,The distance it takes to stop the truck,The distance traveled from the time you see a hazard until you recognize it,The distance traveled while your foot moves to the brake,The distance traveled from the time you see a hazard until you recognize it
+2 General Knowledge,Empty trucks usually require ________ stopping distance than full trucks.,The exact same,Shorter,Greater,Greater
+2 General Knowledge,What is 'hydroplaning'?,When tires lose contact with the road and float on a layer of water,Using air brakes in the rain,Driving a truck onto a ferry boat,When tires lose contact with the road and float on a layer of water
+2 General Knowledge,What is the best way to keep a 'space cushion' in front of you?,By adjusting your following distance,By driving in the left lane,By flashing your high beams at slow cars,By adjusting your following distance
+2 General Knowledge,"If you are being tailgated, you should:",Slam on your brakes to scare them,Increase your following distance in front,Speed up to match their speed,Increase your following distance in front
+2 General Knowledge,How much space do you need overhead?,At least one foot of clearance,The height of the truck exactly,Five feet of clearance,At least one foot of clearance
+2 General Knowledge,What defines a 'hazard'?,Any road condition or user that is a possible danger,A police car with lights on,Only an accident that has already happened,Any road condition or user that is a possible danger
+2 General Knowledge,Why is it important to identify hazards early?,So you have time to plan a way around them,So you can honk your horn at them,To report them to the DOT,So you have time to plan a way around them
+2 General Knowledge,A 'distracted driver' is:,A hazard,Someone driving too fast,Always a professional driver,A hazard
+2 General Knowledge,Why is night driving more dangerous?,Tires wear out faster,The air is colder,Visibility is limited,Visibility is limited
+2 General Knowledge,"When driving at night, you should dim your high beams within ___ feet of an oncoming vehicle.","1,000",500,200,500
+2 General Knowledge,"If an oncoming driver does not dim their high beams, you should:",Turn on your high beams to show them,Close your eyes briefly,Look at the right side of the road (white line),Look at the right side of the road (white line)
+2 General Knowledge,"When driving in winter, you should check your tires:",Once a day,Only if they look flat,Every time you stop,Every time you stop
+2 General Knowledge,What should you do if the engine coolant temperature rises rapidly?,Stop and let the engine cool before checking it,Open the radiator cap immediately,Drive faster to increase airflow,Stop and let the engine cool before checking it
+2 General Knowledge,The 'safe speed' on a long downgrade is determined by:,The posted car speed limit,How fast the driver behind you is going,"Weight of vehicle, steepness, and road conditions","Weight of vehicle, steepness, and road conditions"
+2 General Knowledge,Using the brakes too much on a long downgrade causes:,Engine stall,Tire blowouts,Brake fade,Brake fade
+2 General Knowledge,What is the proper braking technique on a steep grade?,"Apply brakes until 5 mph below safe speed, then release",Constant light pressure,Pumping the brakes as fast as possible,"Apply brakes until 5 mph below safe speed, then release"
+2 General Knowledge,What is the most common cause of a 'drive-wheel' skid?,Braking too hard or accelerating too hard,Low tire pressure,Turning the wheel too fast,Braking too hard or accelerating too hard
+2 General Knowledge,"To correct a drive-wheel braking skid, you should:",Brake harder,Accelerate quickly,Stop braking and counter-steer,Stop braking and counter-steer
+2 General Knowledge,What happens when front wheels skid?,The vehicle tends to keep moving in a straight line,The trailer will 'jackknife' immediately,The steering becomes very sensitive,The vehicle tends to keep moving in a straight line
+2 General Knowledge,What is the first thing to do at an accident scene?,Protect the area (prevent further accidents),Call your boss,Move the injured people immediately,Protect the area (prevent further accidents)
+2 General Knowledge,Where should you aim a fire extinguisher when fighting a fire?,All over the vehicle,At the top of the flames,At the base of the fire,At the base of the fire
+2 General Knowledge,Which fire can you use water on?,Tire fires,Fuel fires,Electrical fires,Tire fires
+2 General Knowledge,What is the only thing that can sober up a person?,Black coffee,Time,A cold shower,Time
+2 General Knowledge,A BAC of _____ or higher means you are legally 'under the influence' in a CMV.,0.01,0.04,0.08,0.04
+2 General Knowledge,"If you lose your CDL for one year, it is usually because:",Speeding 5 mph over,DUI or leaving the scene of an accident,Having a burnt-out headlight,DUI or leaving the scene of an accident
+2 General Knowledge,Who is responsible for inspecting the cargo?,The driver,The shipper,The state trooper,The driver
+2 General Knowledge,How often should you check your cargo tie-downs?,Once every 500 miles,Only at the end of the day,"Within the first 50 miles, then every 3 hours or 150 miles","Within the first 50 miles, then every 3 hours or 150 miles"
+2 General Knowledge,What is 'Gross Combination Weight' (GCW)?,"Total weight of the power unit, the trailer, and the cargo",The weight of the truck only,The maximum weight the axle can hold,"Total weight of the power unit, the trailer, and the cargo"
+2 General Knowledge,What is the most important reason for doing a vehicle inspection?,Safety for yourself and other road users,To avoid being flagged by weigh stations,To keep your insurance rates low,Safety for yourself and other road users
+2 General Knowledge,Which of these is a key part of the steering system?,Leaf spring,Steering knuckle,Main air reservoir,Steering knuckle
+3 General Knowledge,What is the minimum tread depth for front tires?,2/32 inch,4/32 inch,1/16 inch,4/32 inch
+3 General Knowledge,What is the minimum tread depth for all tires EXCEPT the front tires?,1/8 inch,4/32 inch,2/32 inch,2/32 inch
+3 General Knowledge,Rust streaks around wheel nuts may indicate:,The nuts are loose,The rims are made of steel,The tires are over-inflated,The nuts are loose
+3 General Knowledge,How much 'play' should a fan belt have when you push on it?,No play at all,At least 2 inches,Up to 3/4 of an inch,Up to 3/4 of an inch
+3 General Knowledge,What is a specific danger of a cracked or leaky exhaust system?,Poisonous fumes can enter the cab,The transmission will overheat,The engine will lose all horsepower,Poisonous fumes can enter the cab
+3 General Knowledge,"When checking your lights, the engine should be:",Off,Running at high RPM,Idling,Off
+3 General Knowledge,Why should you use a helper when backing?,They can help you shift gears,They can see the 'blind spots' you can't,They are required by federal law,They can see the 'blind spots' you can't
+3 General Knowledge,Which way do you turn the wheel to make the trailer go left when backing?,To the right,To the left,Keep it centered,To the right
+3 General Knowledge,What is 'double clutching'?,Using two feet on the clutch pedal,Releasing and pressing the clutch twice per shift,Shifting without using the clutch at all,Releasing and pressing the clutch twice per shift
+3 General Knowledge,When should you downshift on a long hill?,Only if you reach the speed limit,Halfway down the grade,Before you start down the grade,Before you start down the grade
+3 General Knowledge,What are 'retarders' designed to do?,Provide extra power for climbing hills,Prevent the wheels from locking during a skid,Help slow the vehicle without using the service brakes,Help slow the vehicle without using the service brakes
+3 General Knowledge,"When the road is slippery, you should ________ the retarder.",Turn off,Keep on low power,Turn on,Turn off
+3 General Knowledge,How far ahead should a driver look while driving?,12 to 15 seconds,3 to 5 seconds,At least one mile,12 to 15 seconds
+3 General Knowledge,"In the city, looking '12 to 15 seconds ahead' is about:",One mile,One block,Three blocks,One block
+3 General Knowledge,When should you check your mirrors?,Only when you hear a horn,Before and after every lane change or turn,Once every 5 minutes,Before and after every lane change or turn
+3 General Knowledge,What is 'convex' mirror useful for?,It makes objects look closer than they are,It eliminates all blind spots,It provides a wider view than a flat mirror,It provides a wider view than a flat mirror
+3 General Knowledge,"When you signal a turn, you should:",Signal exactly as you start to turn,Signal early and leave it on until the turn is done,Tap the brakes to signal instead,Signal early and leave it on until the turn is done
+3 General Knowledge,"If you double your speed, your braking distance increases by:",4 times,2 times,3 times,4 times
+3 General Knowledge,What is 'perception distance'?,The distance it takes to stop the truck,The distance traveled while your foot moves to the brake,The distance traveled from the time you see a hazard until you recognize it,The distance traveled from the time you see a hazard until you recognize it
+3 General Knowledge,Empty trucks usually require ________ stopping distance than full trucks.,The exact same,Greater,Shorter,Greater
+3 General Knowledge,What is 'hydroplaning'?,When tires lose contact with the road and float on a layer of water,Using air brakes in the rain,Driving a truck onto a ferry boat,When tires lose contact with the road and float on a layer of water
+3 General Knowledge,What is the best way to keep a 'space cushion' in front of you?,By adjusting your following distance,By driving in the left lane,By flashing your high beams at slow cars,By adjusting your following distance
+3 General Knowledge,"If you are being tailgated, you should:",Speed up to match their speed,Increase your following distance in front,Slam on your brakes to scare them,Increase your following distance in front
+3 General Knowledge,How much space do you need overhead?,At least one foot of clearance,Five feet of clearance,The height of the truck exactly,At least one foot of clearance
+3 General Knowledge,What defines a 'hazard'?,Any road condition or user that is a possible danger,A police car with lights on,Only an accident that has already happened,Any road condition or user that is a possible danger
+3 General Knowledge,Why is it important to identify hazards early?,So you can honk your horn at them,So you have time to plan a way around them,To report them to the DOT,So you have time to plan a way around them
+3 General Knowledge,A 'distracted driver' is:,Always a professional driver,A hazard,Someone driving too fast,A hazard
+3 General Knowledge,Why is night driving more dangerous?,Visibility is limited,Tires wear out faster,The air is colder,Visibility is limited
+3 General Knowledge,"When driving at night, you should dim your high beams within ___ feet of an oncoming vehicle.",500,200,"1,000",500
+3 General Knowledge,"If an oncoming driver does not dim their high beams, you should:",Close your eyes briefly,Turn on your high beams to show them,Look at the right side of the road (white line),Look at the right side of the road (white line)
+3 General Knowledge,"When driving in winter, you should check your tires:",Once a day,Every time you stop,Only if they look flat,Every time you stop
+3 General Knowledge,What should you do if the engine coolant temperature rises rapidly?,Drive faster to increase airflow,Stop and let the engine cool before checking it,Open the radiator cap immediately,Stop and let the engine cool before checking it
+3 General Knowledge,The 'safe speed' on a long downgrade is determined by:,"Weight of vehicle, steepness, and road conditions",The posted car speed limit,How fast the driver behind you is going,"Weight of vehicle, steepness, and road conditions"
+3 General Knowledge,Using the brakes too much on a long downgrade causes:,Brake fade,Engine stall,Tire blowouts,Brake fade
+3 General Knowledge,What is the proper braking technique on a steep grade?,Pumping the brakes as fast as possible,"Apply brakes until 5 mph below safe speed, then release",Constant light pressure,"Apply brakes until 5 mph below safe speed, then release"
+3 General Knowledge,What is the most common cause of a 'drive-wheel' skid?,Turning the wheel too fast,Low tire pressure,Braking too hard or accelerating too hard,Braking too hard or accelerating too hard
+3 General Knowledge,"To correct a drive-wheel braking skid, you should:",Accelerate quickly,Stop braking and counter-steer,Brake harder,Stop braking and counter-steer
+3 General Knowledge,What happens when front wheels skid?,The vehicle tends to keep moving in a straight line,The steering becomes very sensitive,The trailer will 'jackknife' immediately,The vehicle tends to keep moving in a straight line
+3 General Knowledge,What is the first thing to do at an accident scene?,Call your boss,Move the injured people immediately,Protect the area (prevent further accidents),Protect the area (prevent further accidents)
+3 General Knowledge,Where should you aim a fire extinguisher when fighting a fire?,At the base of the fire,At the top of the flames,All over the vehicle,At the base of the fire
+3 General Knowledge,Which fire can you use water on?,Electrical fires,Fuel fires,Tire fires,Tire fires
+3 General Knowledge,What is the only thing that can sober up a person?,A cold shower,Time,Black coffee,Time
+3 General Knowledge,A BAC of _____ or higher means you are legally 'under the influence' in a CMV.,0.08,0.04,0.01,0.04
+3 General Knowledge,"If you lose your CDL for one year, it is usually because:",Speeding 5 mph over,DUI or leaving the scene of an accident,Having a burnt-out headlight,DUI or leaving the scene of an accident
+3 General Knowledge,Who is responsible for inspecting the cargo?,The state trooper,The driver,The shipper,The driver
+3 General Knowledge,How often should you check your cargo tie-downs?,Only at the end of the day,"Within the first 50 miles, then every 3 hours or 150 miles",Once every 500 miles,"Within the first 50 miles, then every 3 hours or 150 miles"
+3 General Knowledge,What is 'Gross Combination Weight' (GCW)?,The weight of the truck only,The maximum weight the axle can hold,"Total weight of the power unit, the trailer, and the cargo","Total weight of the power unit, the trailer, and the cargo"
+3 General Knowledge,What is the most important reason for doing a vehicle inspection?,To avoid being flagged by weigh stations,Safety for yourself and other road users,To keep your insurance rates low,Safety for yourself and other road users
+3 General Knowledge,Which of these is a key part of the steering system?,Main air reservoir,Leaf spring,Steering knuckle,Steering knuckle
+3 General Knowledge,What is the minimum tread depth for front tires?,4/32 inch,1/16 inch,2/32 inch,4/32 inch
+1 Air Brakes,The air compressor governor controls:,When the air compressor pumps air into the storage tanks,The pressure in the service line only,The speed of the engine,When the air compressor pumps air into the storage tanks
+1 Air Brakes,"When coupling, you should back the tractor:",Gently under the trailer,Fast so it locks hard,At a 45-degree angle,Gently under the trailer
+1 Air Brakes,The low air pressure warning signal must come on before pressure drops below:,40 psi,60 psi,100 psi,60 psi
+1 Air Brakes,The sliding fifth wheel should be locked so that:,It is at the very front of the tractor,It is at the very back of the tractor,The tractor frame does not hit the landing gear during turns,The tractor frame does not hit the landing gear during turns
+1 Air Brakes,Spring brakes will usually come on automatically when air pressure drops to:,20 to 45 psi,60 to 80 psi,10 to 15 psi,20 to 45 psi
+1 Air Brakes,"When checking the fifth wheel locking lever, it should be in the:",Middle position,Open position,Closed or locked position,Closed or locked position
+1 Air Brakes,"When you push the brake pedal down, you are:",Turning off the compressor,Letting air out of the system,Pushing against a spring and air pressure to apply the brakes,Pushing against a spring and air pressure to apply the brakes
+1 Air Brakes,"To prevent a rollover, the most important thing is to:",Keep the air pressure high,Go slowly around turns,Use the hand brake in turns,Go slowly around turns
+1 Air Brakes,What does a safety valve do in the air tank?,Protects the tank from too much pressure,Lets the driver drain the water,Controlled by the foot pedal,Protects the tank from too much pressure
+1 Air Brakes,Which trailer is most likely to flip in a 'double' or 'triple'?,The last trailer,The tractor itself,The first trailer,The last trailer
+1 Air Brakes,The most common type of foundation brake found on heavy vehicles is:,Disc brake,S-cam drum brake,Wedge brake,S-cam drum brake
+1 Air Brakes,A 'converter dolly' is used to:,Convert air brakes to hydraulic,Shift the weight of the cargo,Connect a tractor to a second trailer,Connect a tractor to a second trailer
+1 Air Brakes,What should you do if the low air pressure warning light comes on?,Increase speed to build air,Bring the vehicle to a safe stop as soon as possible,Continue to the next service station,Bring the vehicle to a safe stop as soon as possible
+1 Air Brakes,The fifth wheel should be greased to:,Prevent steering problems,Make the truck look clean,Keep the air lines from sticking,Prevent steering problems
+1 Air Brakes,Slack adjusters are part of:,The foundation brakes,The dashboard gauges,The air compressor,The foundation brakes
+1 Air Brakes,If you cross the air lines when coupling to an old trailer:,The tractor will won't start,The low air warning will stay on,You could walk away without any brakes,You could walk away without any brakes
+1 Air Brakes,"To check the free play in manual slack adjusters, you should:",Keep the spring brakes on,Apply the service brakes firmly,"Park on level ground, chock wheels, and release parking brakes","Park on level ground, chock wheels, and release parking brakes"
+1 Air Brakes,"When checking the trailer emergency brakes, you should:",Pull out the trailer air supply knob,Push in the parking brake knob,Disconnect the blue line only,Pull out the trailer air supply knob
+1 Air Brakes,How often should you drain your air tanks?,Once a week,At the end of each day of driving,Only during the winter,At the end of each day of driving
+1 Air Brakes,The 'shut-off valves' at the back of the trailer must be:,"Open when pulling a trailer, closed at the last trailer",Always open,Always closed,"Open when pulling a trailer, closed at the last trailer"
+1 Air Brakes,An air-tank heater helps:,Keep ice from forming in the air brake valves,Keep the driver warm,Increase the air pressure,Keep ice from forming in the air brake valves
+1 Air Brakes,"When uncoupling, you should lower the landing gear until:",It makes firm contact with the ground,The tractor frame rises 3 inches,The tires come off the ground,It makes firm contact with the ground
+1 Air Brakes,The 'cut-out' pressure for the governor is usually:,150 psi,125 psi,100 psi,125 psi
+1 Air Brakes,What is the best way to recognize a trailer skid?,By seeing it in your mirrors,By feeling the steering wheel vibrate,By hearing the air pressure drop,By seeing it in your mirrors
+1 Air Brakes,The 'cut-in' pressure for the governor is usually:,125 psi,60 psi,100 psi,100 psi
+2 Air Brakes,Why should you never use the trailer hand valve to straighten a jackknife?,The valve isn't strong enough,The trailer wheels may lock up and worsen the skid,It only works on the tractor,The trailer wheels may lock up and worsen the skid
+2 Air Brakes,"If your vehicle has an alcohol evaporator, why is it used?",To provide fuel for the heater,To clean the air compressor,To reduce the risk of ice in the air brake valves,To reduce the risk of ice in the air brake valves
+2 Air Brakes,What is a 'bobtail' tractor?,A tractor that has lost its brakes,A tractor with a very short trailer,A tractor with no trailer attached,A tractor with no trailer attached
+2 Air Brakes,A dual air brake system has:,Two brake pedals,Two compressors,Two separate air brake systems that use a single set of controls,Two separate air brake systems that use a single set of controls
+2 Air Brakes,"Before backing under a trailer, you should check that:",The air lines are already connected,The trailer brakes are locked,The trailer is higher than the fifth wheel,The trailer brakes are locked
+2 Air Brakes,What is a 'wig wag'?,A type of mechanical low air pressure warning signal,Part of the coupling system,A way to signal other drivers,A type of mechanical low air pressure warning signal
+2 Air Brakes,Where should the locking jaws be closed on the kingpin?,Around the shank,Around the flange,Around the head,Around the shank
+2 Air Brakes,Total stopping distance for air brakes is longer than hydraulic brakes because of:,Perception distance,Brake lag distance,Reaction distance,Brake lag distance
+2 Air Brakes,How much space should there be between the upper and lower fifth wheel after coupling?,1/2 inch,1 inch,None,None
+2 Air Brakes,Brake lag at 55 mph adds about how many feet to stopping distance?,32 feet,10 feet,100 feet,32 feet
+2 Air Brakes,"When coupling, the fifth wheel should be tilted:",Down toward the rear of the tractor,Up toward the cab,Completely level,Down toward the rear of the tractor
+2 Air Brakes,Brake fade is caused by:,Low air pressure,Using the brakes too little,Brakes getting too hot,Brakes getting too hot
+2 Air Brakes,The 'trolley valve' or 'Johnson bar' should be used:,To check trailer brakes during a pre-trip,To stop the vehicle in an emergency,To park the vehicle,To check trailer brakes during a pre-trip
+2 Air Brakes,The 'stab braking' method involves:,Applying brakes all the way and releasing when wheels lock,Lightly tapping the brakes,Applying constant pressure,Applying brakes all the way and releasing when wheels lock
+2 Air Brakes,What happens if the emergency air line breaks?,The tractor will lose all steering,The trailer emergency brakes will come on,The engine will shut off,The trailer emergency brakes will come on
+2 Air Brakes,"In a single air brake system (pre-1975), what is the maximum leakage rate per minute?",3 psi,5 psi,1 psi,3 psi
+2 Air Brakes,The service air line (blue) is controlled by:,The ignition switch,The foot brake or the hand valve,The parking brake only,The foot brake or the hand valve
+2 Air Brakes,"When testing the low air pressure warning, the engine should be:",Running at high RPM,Running at idle,Off with the key in the 'on' position,Off with the key in the 'on' position
+2 Air Brakes,What are the 'glad hands' used for?,Connecting the service and emergency air lines from the tractor to the trailer,Coupling the fifth wheel,Shaking hands with the loader,Connecting the service and emergency air lines from the tractor to the trailer
+2 Air Brakes,Why shouldn't you fan the brakes unless necessary?,It makes the brakes get too cold,It damages the brake drums,It can exhaust the air pressure faster than the compressor can replace it,It can exhaust the air pressure faster than the compressor can replace it
+2 Air Brakes,The trailer air supply control (red knob) does what?,Regulates the engine speed,Supplies the trailer with air and controls emergency brakes,Controls the tractor's service brakes,Supplies the trailer with air and controls emergency brakes
+2 Air Brakes,"If the compressor has its own oil supply, when should you check it?",Before every trip,Once a month,When the low air light comes on,Before every trip
+2 Air Brakes,Which vehicle is most likely to roll over in a turn?,A tractor-trailer with a low center of gravity,A single unit truck,A tractor pulling triple trailers,A tractor pulling triple trailers
+2 Air Brakes,What does the brake pedal do?,Directly moves the brake shoes,Connects to a hydraulic master cylinder,Controls the air pressure applied to put on the brakes,Controls the air pressure applied to put on the brakes
+2 Air Brakes,What is the 'crack-the-whip' effect?,Rearward amplification that makes trailers flip,A method of shifting gears,The sound of the air lines connecting,Rearward amplification that makes trailers flip
+3 Air Brakes,The air compressor governor controls:,The speed of the engine,When the air compressor pumps air into the storage tanks,The pressure in the service line only,When the air compressor pumps air into the storage tanks
+3 Air Brakes,"When coupling, you should back the tractor:",Gently under the trailer,At a 45-degree angle,Fast so it locks hard,Gently under the trailer
+3 Air Brakes,The low air pressure warning signal must come on before pressure drops below:,40 psi,100 psi,60 psi,60 psi
+3 Air Brakes,The sliding fifth wheel should be locked so that:,It is at the very front of the tractor,It is at the very back of the tractor,The tractor frame does not hit the landing gear during turns,The tractor frame does not hit the landing gear during turns
+3 Air Brakes,Spring brakes will usually come on automatically when air pressure drops to:,20 to 45 psi,60 to 80 psi,10 to 15 psi,20 to 45 psi
+3 Air Brakes,"When checking the fifth wheel locking lever, it should be in the:",Closed or locked position,Open position,Middle position,Closed or locked position
+3 Air Brakes,"When you push the brake pedal down, you are:",Turning off the compressor,Pushing against a spring and air pressure to apply the brakes,Letting air out of the system,Pushing against a spring and air pressure to apply the brakes
+3 Air Brakes,"To prevent a rollover, the most important thing is to:",Use the hand brake in turns,Go slowly around turns,Keep the air pressure high,Go slowly around turns
+3 Air Brakes,What does a safety valve do in the air tank?,Protects the tank from too much pressure,Controlled by the foot pedal,Lets the driver drain the water,Protects the tank from too much pressure
+3 Air Brakes,Which trailer is most likely to flip in a 'double' or 'triple'?,The last trailer,The first trailer,The tractor itself,The last trailer
+3 Air Brakes,The most common type of foundation brake found on heavy vehicles is:,Disc brake,Wedge brake,S-cam drum brake,S-cam drum brake
+3 Air Brakes,A 'converter dolly' is used to:,Connect a tractor to a second trailer,Convert air brakes to hydraulic,Shift the weight of the cargo,Connect a tractor to a second trailer
+3 Air Brakes,What should you do if the low air pressure warning light comes on?,Continue to the next service station,Bring the vehicle to a safe stop as soon as possible,Increase speed to build air,Bring the vehicle to a safe stop as soon as possible
+3 Air Brakes,The fifth wheel should be greased to:,Make the truck look clean,Prevent steering problems,Keep the air lines from sticking,Prevent steering problems
+3 Air Brakes,Slack adjusters are part of:,The dashboard gauges,The air compressor,The foundation brakes,The foundation brakes
+3 Air Brakes,If you cross the air lines when coupling to an old trailer:,The low air warning will stay on,You could walk away without any brakes,The tractor will won't start,You could walk away without any brakes
+3 Air Brakes,"To check the free play in manual slack adjusters, you should:",Keep the spring brakes on,"Park on level ground, chock wheels, and release parking brakes",Apply the service brakes firmly,"Park on level ground, chock wheels, and release parking brakes"
+3 Air Brakes,"When checking the trailer emergency brakes, you should:",Push in the parking brake knob,Pull out the trailer air supply knob,Disconnect the blue line only,Pull out the trailer air supply knob
+3 Air Brakes,How often should you drain your air tanks?,Only during the winter,Once a week,At the end of each day of driving,At the end of each day of driving
+3 Air Brakes,The 'shut-off valves' at the back of the trailer must be:,Always closed,Always open,"Open when pulling a trailer, closed at the last trailer","Open when pulling a trailer, closed at the last trailer"
+3 Air Brakes,An air-tank heater helps:,Keep ice from forming in the air brake valves,Increase the air pressure,Keep the driver warm,Keep ice from forming in the air brake valves
+3 Air Brakes,"When uncoupling, you should lower the landing gear until:",The tires come off the ground,It makes firm contact with the ground,The tractor frame rises 3 inches,It makes firm contact with the ground
+3 Air Brakes,The 'cut-out' pressure for the governor is usually:,125 psi,150 psi,100 psi,125 psi
+3 Air Brakes,What is the best way to recognize a trailer skid?,By seeing it in your mirrors,By hearing the air pressure drop,By feeling the steering wheel vibrate,By seeing it in your mirrors
+3 Air Brakes,The 'cut-in' pressure for the governor is usually:,100 psi,60 psi,125 psi,100 psi
+4 Air Brakes,Why should you never use the trailer hand valve to straighten a jackknife?,The trailer wheels may lock up and worsen the skid,The valve isn't strong enough,It only works on the tractor,The trailer wheels may lock up and worsen the skid
+4 Air Brakes,"If your vehicle has an alcohol evaporator, why is it used?",To provide fuel for the heater,To clean the air compressor,To reduce the risk of ice in the air brake valves,To reduce the risk of ice in the air brake valves
+4 Air Brakes,What is a 'bobtail' tractor?,A tractor with no trailer attached,A tractor that has lost its brakes,A tractor with a very short trailer,A tractor with no trailer attached
+4 Air Brakes,A dual air brake system has:,Two compressors,Two brake pedals,Two separate air brake systems that use a single set of controls,Two separate air brake systems that use a single set of controls
+4 Air Brakes,"Before backing under a trailer, you should check that:",The trailer is higher than the fifth wheel,The air lines are already connected,The trailer brakes are locked,The trailer brakes are locked
+4 Air Brakes,What is a 'wig wag'?,Part of the coupling system,A type of mechanical low air pressure warning signal,A way to signal other drivers,A type of mechanical low air pressure warning signal
+4 Air Brakes,Where should the locking jaws be closed on the kingpin?,Around the shank,Around the head,Around the flange,Around the shank
+4 Air Brakes,Total stopping distance for air brakes is longer than hydraulic brakes because of:,Brake lag distance,Perception distance,Reaction distance,Brake lag distance
+4 Air Brakes,How much space should there be between the upper and lower fifth wheel after coupling?,1/2 inch,None,1 inch,None
+4 Air Brakes,Brake lag at 55 mph adds about how many feet to stopping distance?,100 feet,10 feet,32 feet,32 feet
+4 Air Brakes,"When coupling, the fifth wheel should be tilted:",Down toward the rear of the tractor,Completely level,Up toward the cab,Down toward the rear of the tractor
+4 Air Brakes,Brake fade is caused by:,Using the brakes too little,Brakes getting too hot,Low air pressure,Brakes getting too hot
+4 Air Brakes,The 'trolley valve' or 'Johnson bar' should be used:,To park the vehicle,To stop the vehicle in an emergency,To check trailer brakes during a pre-trip,To check trailer brakes during a pre-trip
+4 Air Brakes,The 'stab braking' method involves:,Lightly tapping the brakes,Applying brakes all the way and releasing when wheels lock,Applying constant pressure,Applying brakes all the way and releasing when wheels lock
+4 Air Brakes,What happens if the emergency air line breaks?,The tractor will lose all steering,The trailer emergency brakes will come on,The engine will shut off,The trailer emergency brakes will come on
+4 Air Brakes,"In a single air brake system (pre-1975), what is the maximum leakage rate per minute?",1 psi,3 psi,5 psi,3 psi
+4 Air Brakes,The service air line (blue) is controlled by:,The parking brake only,The foot brake or the hand valve,The ignition switch,The foot brake or the hand valve
+4 Air Brakes,"When testing the low air pressure warning, the engine should be:",Running at idle,Off with the key in the 'on' position,Running at high RPM,Off with the key in the 'on' position
+4 Air Brakes,What are the 'glad hands' used for?,Connecting the service and emergency air lines from the tractor to the trailer,Shaking hands with the loader,Coupling the fifth wheel,Connecting the service and emergency air lines from the tractor to the trailer
+4 Air Brakes,Why shouldn't you fan the brakes unless necessary?,It damages the brake drums,It makes the brakes get too cold,It can exhaust the air pressure faster than the compressor can replace it,It can exhaust the air pressure faster than the compressor can replace it
+4 Air Brakes,The trailer air supply control (red knob) does what?,Regulates the engine speed,Controls the tractor's service brakes,Supplies the trailer with air and controls emergency brakes,Supplies the trailer with air and controls emergency brakes
+4 Air Brakes,"If the compressor has its own oil supply, when should you check it?",When the low air light comes on,Before every trip,Once a month,Before every trip
+4 Air Brakes,Which vehicle is most likely to roll over in a turn?,A single unit truck,A tractor-trailer with a low center of gravity,A tractor pulling triple trailers,A tractor pulling triple trailers
+4 Air Brakes,What does the brake pedal do?,Connects to a hydraulic master cylinder,Directly moves the brake shoes,Controls the air pressure applied to put on the brakes,Controls the air pressure applied to put on the brakes
+4 Air Brakes,What is the 'crack-the-whip' effect?,Rearward amplification that makes trailers flip,The sound of the air lines connecting,A method of shifting gears,Rearward amplification that makes trailers flip
+1 Passenger,When must you stop at a railroad crossing with a bus?,Between 15 and 50 feet before the nearest rail,Exactly 100 feet from the tracks,Only if you see a train coming,Between 15 and 50 feet before the nearest rail
+1 Passenger,What is the maximum number of people allowed to stand in a bus?,10 people,As many as can fit comfortably,No riders are allowed to stand forward of the standee line,No riders are allowed to stand forward of the standee line
+1 Passenger,"When you discharge a passenger, you should tell them to walk:",Toward the front of the bus after getting off,Toward the rear of the bus after getting off,Across the street immediately,Toward the rear of the bus after getting off
+1 Passenger,Which of these is a prohibited practice while driving a bus?,Fueling the bus with passengers on board in a closed building,Adjusting the mirrors at a stoplight,Talking to a passenger about their destination,Fueling the bus with passengers on board in a closed building
+1 Passenger,The 'standee line' is a line on the floor that:,Marks the entrance to the bus,Passengers must stay behind while the bus is moving,Shows the driver where to stand,Passengers must stay behind while the bus is moving
+1 Passenger,How many emergency exits are required on a passenger bus?,Only the front door,At least one at the rear and one on the side,None if the windows can be broken,At least one at the rear and one on the side
+1 Passenger,What should you do if a passenger becomes disruptive?,Throw them off the bus immediately on the highway,Speed up to reach the destination faster,Wait until you reach a safe well-lit area to discharge them,Wait until you reach a safe well-lit area to discharge them
+1 Passenger,"When arriving at a destination, you should remind passengers:",To leave their trash on the floor,To take all their carry-on items with them,To wait 10 minutes before getting off,To take all their carry-on items with them
+1 Passenger,Buses must never carry more than ____ lbs of any one class of hazardous material.,"1,000 lbs",500 lbs,100 lbs,100 lbs
+1 Passenger,Which hazardous material can a bus never carry?,Hospital supplies,Poison gas (Class 2.3),Small arms ammunition,Poison gas (Class 2.3)
+1 Passenger,"When inspecting the interior of the bus, you must check that:",The radio is at maximum volume,All emergency exits are unlatched and working properly,The floor is waxed and slippery,All emergency exits are unlatched and working properly
+1 Passenger,"If the bus has a 'dead-man' throttle, you should:",Never bypass it or lock it in place,Tape it down for comfort,Only use it during the day,Never bypass it or lock it in place
+1 Passenger,"When stopping at a drawbridge without an attendant, you must stop at least:",100 feet before the draw,10 feet before the draw,50 feet before the draw,50 feet before the draw
+1 Passenger,What is the most important reason for checking your mirrors regularly?,To see if the tail lights are on,To check your own appearance,To keep an eye on your passengers and traffic,To keep an eye on your passengers and traffic
+1 Passenger,"When driving a bus, you should look ahead:",12 to 15 seconds,3 to 5 seconds,Exactly one mile,12 to 15 seconds
+1 Passenger,Why should you avoid using the 'interior' mirror to judge traffic behind you?,It creates a blind spot and doesn't show the sides well,It makes cars look bigger,It is illegal in Texas,It creates a blind spot and doesn't show the sides well
+1 Passenger,"If you have to swing wide on a right turn, you should:",Swing wide as you are completing the turn,Stay as close to the curb as possible,Swing wide into the left lane before you start the turn,Swing wide as you are completing the turn
+1 Passenger,"When driving on a slippery road, you should:",Keep your speed the same,Increase speed for better traction,Reduce your speed by at least one-third,Reduce your speed by at least one-third
+1 Passenger,How many reflective triangles must you carry on a bus?,3,2,5,3
+1 Passenger,What is the best way to handle a curve?,Brake hard while in the middle of the curve,Slow to a safe speed before entering the curve,Accelerate through the curve,Slow to a safe speed before entering the curve
+2 Passenger,"If your bus catches fire, the first thing you should do is:",Get the passengers off the bus,Try to put the fire out alone,Call the fire department,Get the passengers off the bus
+2 Passenger,Baggage and freight must be stored in a way that:,Does not block any door or emergency exit,Is stacked as high as possible,Is kept in the driver's lap,Does not block any door or emergency exit
+2 Passenger,When is it okay to tow a disabled bus with passengers on board?,Only to the nearest safe place to discharge passengers,Anytime the bus can still roll,Never,Only to the nearest safe place to discharge passengers
+2 Passenger,The 'interlock' system on a bus usually:,Shuts off the engine automatically,Locks the driver's seat belt,Prevents the bus from moving when the rear door is open,Prevents the bus from moving when the rear door is open
+2 Passenger,"If you have to back a bus, you should:",Never look in the mirrors,Back toward the driver's side and use a helper,Back as fast as possible,Back toward the driver's side and use a helper
+2 Passenger,When must you stop at a railroad crossing with a bus?,Between 15 and 50 feet before the nearest rail,Exactly 100 feet from the tracks,Only if you see a train coming,Between 15 and 50 feet before the nearest rail
+2 Passenger,What is the maximum number of people allowed to stand in a bus?,No riders are allowed to stand forward of the standee line,As many as can fit comfortably,10 people,No riders are allowed to stand forward of the standee line
+2 Passenger,"When you discharge a passenger, you should tell them to walk:",Toward the rear of the bus after getting off,Across the street immediately,Toward the front of the bus after getting off,Toward the rear of the bus after getting off
+2 Passenger,Which of these is a prohibited practice while driving a bus?,Fueling the bus with passengers on board in a closed building,Talking to a passenger about their destination,Adjusting the mirrors at a stoplight,Fueling the bus with passengers on board in a closed building
+2 Passenger,The 'standee line' is a line on the floor that:,Marks the entrance to the bus,Shows the driver where to stand,Passengers must stay behind while the bus is moving,Passengers must stay behind while the bus is moving
+2 Passenger,How many emergency exits are required on a passenger bus?,None if the windows can be broken,Only the front door,At least one at the rear and one on the side,At least one at the rear and one on the side
+2 Passenger,What should you do if a passenger becomes disruptive?,Throw them off the bus immediately on the highway,Wait until you reach a safe well-lit area to discharge them,Speed up to reach the destination faster,Wait until you reach a safe well-lit area to discharge them
+2 Passenger,"When arriving at a destination, you should remind passengers:",To leave their trash on the floor,To wait 10 minutes before getting off,To take all their carry-on items with them,To take all their carry-on items with them
+2 Passenger,Buses must never carry more than ____ lbs of any one class of hazardous material.,500 lbs,"1,000 lbs",100 lbs,100 lbs
+2 Passenger,Which hazardous material can a bus never carry?,Hospital supplies,Poison gas (Class 2.3),Small arms ammunition,Poison gas (Class 2.3)
+2 Passenger,"When inspecting the interior of the bus, you must check that:",All emergency exits are unlatched and working properly,The floor is waxed and slippery,The radio is at maximum volume,All emergency exits are unlatched and working properly
+2 Passenger,"If the bus has a 'dead-man' throttle, you should:",Only use it during the day,Tape it down for comfort,Never bypass it or lock it in place,Never bypass it or lock it in place
+2 Passenger,"When stopping at a drawbridge without an attendant, you must stop at least:",50 feet before the draw,100 feet before the draw,10 feet before the draw,50 feet before the draw
+2 Passenger,What is the most important reason for checking your mirrors regularly?,To see if the tail lights are on,To check your own appearance,To keep an eye on your passengers and traffic,To keep an eye on your passengers and traffic
+2 Passenger,"When driving a bus, you should look ahead:",12 to 15 seconds,Exactly one mile,3 to 5 seconds,12 to 15 seconds
+3 Passenger,Why should you avoid using the 'interior' mirror to judge traffic behind you?,It makes cars look bigger,It creates a blind spot and doesn't show the sides well,It is illegal in Texas,It creates a blind spot and doesn't show the sides well
+3 Passenger,"If you have to swing wide on a right turn, you should:",Stay as close to the curb as possible,Swing wide into the left lane before you start the turn,Swing wide as you are completing the turn,Swing wide as you are completing the turn
+3 Passenger,"When driving on a slippery road, you should:",Keep your speed the same,Increase speed for better traction,Reduce your speed by at least one-third,Reduce your speed by at least one-third
+3 Passenger,How many reflective triangles must you carry on a bus?,5,2,3,3
+3 Passenger,What is the best way to handle a curve?,Slow to a safe speed before entering the curve,Accelerate through the curve,Brake hard while in the middle of the curve,Slow to a safe speed before entering the curve
+3 Passenger,"If your bus catches fire, the first thing you should do is:",Call the fire department,Get the passengers off the bus,Try to put the fire out alone,Get the passengers off the bus
+3 Passenger,Baggage and freight must be stored in a way that:,Does not block any door or emergency exit,Is kept in the driver's lap,Is stacked as high as possible,Does not block any door or emergency exit
+3 Passenger,When is it okay to tow a disabled bus with passengers on board?,Never,Only to the nearest safe place to discharge passengers,Anytime the bus can still roll,Only to the nearest safe place to discharge passengers
+3 Passenger,The 'interlock' system on a bus usually:,Prevents the bus from moving when the rear door is open,Shuts off the engine automatically,Locks the driver's seat belt,Prevents the bus from moving when the rear door is open
+3 Passenger,"If you have to back a bus, you should:",Back as fast as possible,Back toward the driver's side and use a helper,Never look in the mirrors,Back toward the driver's side and use a helper
+3 Passenger,When must you stop at a railroad crossing with a bus?,Only if you see a train coming,Exactly 100 feet from the tracks,Between 15 and 50 feet before the nearest rail,Between 15 and 50 feet before the nearest rail
+3 Passenger,What is the maximum number of people allowed to stand in a bus?,No riders are allowed to stand forward of the standee line,As many as can fit comfortably,10 people,No riders are allowed to stand forward of the standee line
+3 Passenger,"When you discharge a passenger, you should tell them to walk:",Toward the front of the bus after getting off,Toward the rear of the bus after getting off,Across the street immediately,Toward the rear of the bus after getting off
+3 Passenger,Which of these is a prohibited practice while driving a bus?,Talking to a passenger about their destination,Adjusting the mirrors at a stoplight,Fueling the bus with passengers on board in a closed building,Fueling the bus with passengers on board in a closed building
+3 Passenger,The 'standee line' is a line on the floor that:,Passengers must stay behind while the bus is moving,Shows the driver where to stand,Marks the entrance to the bus,Passengers must stay behind while the bus is moving
+3 Passenger,How many emergency exits are required on a passenger bus?,At least one at the rear and one on the side,None if the windows can be broken,Only the front door,At least one at the rear and one on the side
+3 Passenger,What should you do if a passenger becomes disruptive?,Throw them off the bus immediately on the highway,Speed up to reach the destination faster,Wait until you reach a safe well-lit area to discharge them,Wait until you reach a safe well-lit area to discharge them
+3 Passenger,"When arriving at a destination, you should remind passengers:",To leave their trash on the floor,To wait 10 minutes before getting off,To take all their carry-on items with them,To take all their carry-on items with them
+3 Passenger,Buses must never carry more than ____ lbs of any one class of hazardous material.,100 lbs,500 lbs,"1,000 lbs",100 lbs
+3 Passenger,Which hazardous material can a bus never carry?,Small arms ammunition,Hospital supplies,Poison gas (Class 2.3),Poison gas (Class 2.3)
+4 Passenger,"When inspecting the interior of the bus, you must check that:",All emergency exits are unlatched and working properly,The radio is at maximum volume,The floor is waxed and slippery,All emergency exits are unlatched and working properly
+4 Passenger,"If the bus has a 'dead-man' throttle, you should:",Tape it down for comfort,Only use it during the day,Never bypass it or lock it in place,Never bypass it or lock it in place
+4 Passenger,"When stopping at a drawbridge without an attendant, you must stop at least:",50 feet before the draw,10 feet before the draw,100 feet before the draw,50 feet before the draw
+4 Passenger,What is the most important reason for checking your mirrors regularly?,To see if the tail lights are on,To keep an eye on your passengers and traffic,To check your own appearance,To keep an eye on your passengers and traffic
+4 Passenger,"When driving a bus, you should look ahead:",12 to 15 seconds,3 to 5 seconds,Exactly one mile,12 to 15 seconds
+4 Passenger,Why should you avoid using the 'interior' mirror to judge traffic behind you?,It is illegal in Texas,It creates a blind spot and doesn't show the sides well,It makes cars look bigger,It creates a blind spot and doesn't show the sides well
+4 Passenger,"If you have to swing wide on a right turn, you should:",Swing wide as you are completing the turn,Stay as close to the curb as possible,Swing wide into the left lane before you start the turn,Swing wide as you are completing the turn
+4 Passenger,"When driving on a slippery road, you should:",Increase speed for better traction,Reduce your speed by at least one-third,Keep your speed the same,Reduce your speed by at least one-third
+4 Passenger,How many reflective triangles must you carry on a bus?,2,3,5,3
+4 Passenger,What is the best way to handle a curve?,Slow to a safe speed before entering the curve,Brake hard while in the middle of the curve,Accelerate through the curve,Slow to a safe speed before entering the curve
+4 Passenger,"If your bus catches fire, the first thing you should do is:",Call the fire department,Try to put the fire out alone,Get the passengers off the bus,Get the passengers off the bus
+4 Passenger,Baggage and freight must be stored in a way that:,Is stacked as high as possible,Is kept in the driver's lap,Does not block any door or emergency exit,Does not block any door or emergency exit
+4 Passenger,When is it okay to tow a disabled bus with passengers on board?,Anytime the bus can still roll,Never,Only to the nearest safe place to discharge passengers,Only to the nearest safe place to discharge passengers
+4 Passenger,The 'interlock' system on a bus usually:,Locks the driver's seat belt,Shuts off the engine automatically,Prevents the bus from moving when the rear door is open,Prevents the bus from moving when the rear door is open
+4 Passenger,"If you have to back a bus, you should:",Back toward the driver's side and use a helper,Back as fast as possible,Never look in the mirrors,Back toward the driver's side and use a helper
+4 Passenger,What is the maximum number of people allowed to stand in a bus?,No riders are allowed to stand forward of the standee line,As many as can fit comfortably,10 people,No riders are allowed to stand forward of the standee line
+4 Passenger,"When you discharge a passenger, you should tell them to walk:",Toward the rear of the bus after getting off,Across the street immediately,Toward the front of the bus after getting off,Toward the rear of the bus after getting off
+4 Passenger,Which of these is a prohibited practice while driving a bus?,Fueling the bus with passengers on board in a closed building,Talking to a passenger about their destination,Adjusting the mirrors at a stoplight,Fueling the bus with passengers on board in a closed building
+4 Passenger,The 'standee line' is a line on the floor that:,Marks the entrance to the bus,Shows the driver where to stand,Passengers must stay behind while the bus is moving,Passengers must stay behind while the bus is moving
+4 Passenger,How many emergency exits are required on a passenger bus?,None if the windows can be broken,Only the front door,At least one at the rear and one on the side,At least one at the rear and one on the side
+1 School Bus,What is the 'Danger Zone' around a school bus?,The area exactly 5 feet behind the bus,The area inside the bus near the engine,The area on all sides of the bus where children are in most danger of being hit,The area on all sides of the bus where children are in most danger of being hit
+1 School Bus,How far does the danger zone extend around the bus?,"At least 10 feet from the front, rear, and sides",Exactly 2 feet from the tires,Only 30 feet behind the bus,"At least 10 feet from the front, rear, and sides"
+1 School Bus,Which area is considered the most dangerous part of the danger zone?,Directly in front of the bus,The left side of the bus,The rooftop,Directly in front of the bus
+1 School Bus,Crossover mirrors are used to see:,Vehicles in the left lane,The passengers in the back seat,The danger zone directly in front of the bus,The danger zone directly in front of the bus
+1 School Bus,How should you adjust the outside flat mirrors?,To see the sky,To see 200 feet behind the bus and the rear tires touching the ground,To see the passengers' faces,To see 200 feet behind the bus and the rear tires touching the ground
+1 School Bus,When should you activate your alternating flashing amber warning lights?,Only after you have come to a complete stop,Only if you see children running,"Before every bus stop, as required by state law (usually 100-300 feet)","Before every bus stop, as required by state law (usually 100-300 feet)"
+1 School Bus,When must you activate the alternating red flashing lights?,When driving on the highway,When the bus is parked at the school,When the bus is stopped to load or unload students,When the bus is stopped to load or unload students
+1 School Bus,"If a student is missing after they have exited the bus, you should:",Honk the horn until they appear,"Secure the bus, take the key, and go look for them if necessary",Continue on your route and call the school later,"Secure the bus, take the key, and go look for them if necessary"
+1 School Bus,"When loading students, you should tell them to wait for your signal and cross:",At least 10 feet in front of the bus,Exactly at the front bumper,Behind the bus,At least 10 feet in front of the bus
+1 School Bus,"At a railroad crossing, a school bus driver must:","Stop, open the driver's window, and the service door",Keep driving if no train is heard,Stop only if the guard arms are down,"Stop, open the driver's window, and the service door"
+1 School Bus,The school bus must stop at a railroad crossing within:,5 to 10 feet of the nearest rail,Exactly 100 feet from the rail,15 to 50 feet of the nearest rail,15 to 50 feet of the nearest rail
+1 School Bus,If a police officer is at a railroad crossing signaling you to proceed:,You must get out and check the tracks yourself,You should follow the officer's signal and cross,You must still wait for the train to pass,You should follow the officer's signal and cross
+1 School Bus,What is an 'evacuation site'?,The student's front yard,The bus garage,A safe place away from the bus during an emergency,A safe place away from the bus during an emergency
+1 School Bus,"During an emergency evacuation, you should lead students:",Upwind of the bus at least 100 feet,Behind the bus near the tailpipe,To the nearest busy intersection,Upwind of the bus at least 100 feet
+1 School Bus,A 'passive' railroad crossing is one that:,Is no longer in use,Has a flagman,Does not have any flashing lights or gates,Does not have any flashing lights or gates
+1 School Bus,When should you check your mirrors during the loading process?,Only after the children are seated,Continuously throughout the entire process,Only before you open the door,Continuously throughout the entire process
+1 School Bus,The overhead inside rearview mirror is used to:,Adjust your hat,See the vehicle directly behind you,Monitor passenger activity inside the bus,Monitor passenger activity inside the bus
+1 School Bus,"If the gate at a railroad crossing stays down after a train passes, you should:",Get out and lift the gate manually,Call the dispatcher and find an alternate route,Drive around the gate slowly,Call the dispatcher and find an alternate route
+1 School Bus,What is a 'blind alley'?,A crossing with no signs,A turnabout where you must back the bus,A street with no lights,A turnabout where you must back the bus
+1 School Bus,"If you must back a school bus, you should:",Never use your mirrors,Back as quickly as you can,"Avoid it if possible, but use a lookout if you must","Avoid it if possible, but use a lookout if you must"
+2 School Bus,The emergency exit door must be:,Propelled open for ventilation,Locked with a key from the outside,Closed and latched while the bus is in motion,Closed and latched while the bus is in motion
+2 School Bus,"Before operating a school bus, you must check that the 'Stop Arm':",Is painted bright yellow,Extends fully and the lights flash,Can be removed easily,Extends fully and the lights flash
+2 School Bus,"When unloading students, they should be told to:",Walk at least 10 feet away from the side of the bus,Run to their house immediately,Wait for the bus to move before crossing,Walk at least 10 feet away from the side of the bus
+2 School Bus,"If you are following another school bus, you should:",Maintain a safe following distance,Flash your high beams constantly,Follow as closely as possible to stay together,Maintain a safe following distance
+2 School Bus,What is the most important part of the school bus pre-trip inspection?,The brand of the tires,All of the items related to student safety,The cleanliness of the floor,All of the items related to student safety
+2 School Bus,What is the 'Danger Zone' around a school bus?,The area inside the bus near the engine,The area exactly 5 feet behind the bus,The area on all sides of the bus where children are in most danger of being hit,The area on all sides of the bus where children are in most danger of being hit
+2 School Bus,How far does the danger zone extend around the bus?,"At least 10 feet from the front, rear, and sides",Exactly 2 feet from the tires,Only 30 feet behind the bus,"At least 10 feet from the front, rear, and sides"
+2 School Bus,Which area is considered the most dangerous part of the danger zone?,The left side of the bus,Directly in front of the bus,The rooftop,Directly in front of the bus
+2 School Bus,Crossover mirrors are used to see:,Vehicles in the left lane,The danger zone directly in front of the bus,The passengers in the back seat,The danger zone directly in front of the bus
+2 School Bus,How should you adjust the outside flat mirrors?,To see the sky,To see the passengers' faces,To see 200 feet behind the bus and the rear tires touching the ground,To see 200 feet behind the bus and the rear tires touching the ground
+2 School Bus,When should you activate your alternating flashing amber warning lights?,"Before every bus stop, as required by state law (usually 100-300 feet)",Only if you see children running,Only after you have come to a complete stop,"Before every bus stop, as required by state law (usually 100-300 feet)"
+2 School Bus,When must you activate the alternating red flashing lights?,When driving on the highway,When the bus is stopped to load or unload students,When the bus is parked at the school,When the bus is stopped to load or unload students
+2 School Bus,"If a student is missing after they have exited the bus, you should:","Secure the bus, take the key, and go look for them if necessary",Honk the horn until they appear,Continue on your route and call the school later,"Secure the bus, take the key, and go look for them if necessary"
+2 School Bus,"When loading students, you should tell them to wait for your signal and cross:",Exactly at the front bumper,At least 10 feet in front of the bus,Behind the bus,At least 10 feet in front of the bus
+2 School Bus,"At a railroad crossing, a school bus driver must:",Keep driving if no train is heard,"Stop, open the driver's window, and the service door",Stop only if the guard arms are down,"Stop, open the driver's window, and the service door"
+2 School Bus,The school bus must stop at a railroad crossing within:,Exactly 100 feet from the rail,15 to 50 feet of the nearest rail,5 to 10 feet of the nearest rail,15 to 50 feet of the nearest rail
+2 School Bus,If a police officer is at a railroad crossing signaling you to proceed:,You must still wait for the train to pass,You should follow the officer's signal and cross,You must get out and check the tracks yourself,You should follow the officer's signal and cross
+2 School Bus,What is an 'evacuation site'?,The student's front yard,A safe place away from the bus during an emergency,The bus garage,A safe place away from the bus during an emergency
+2 School Bus,"During an emergency evacuation, you should lead students:",Upwind of the bus at least 100 feet,Behind the bus near the tailpipe,To the nearest busy intersection,Upwind of the bus at least 100 feet
+2 School Bus,A 'passive' railroad crossing is one that:,Does not have any flashing lights or gates,Is no longer in use,Has a flagman,Does not have any flashing lights or gates
+3 School Bus,When should you check your mirrors during the loading process?,Only before you open the door,Continuously throughout the entire process,Only after the children are seated,Continuously throughout the entire process
+3 School Bus,The overhead inside rearview mirror is used to:,See the vehicle directly behind you,Monitor passenger activity inside the bus,Adjust your hat,Monitor passenger activity inside the bus
+3 School Bus,"If the gate at a railroad crossing stays down after a train passes, you should:",Drive around the gate slowly,Call the dispatcher and find an alternate route,Get out and lift the gate manually,Call the dispatcher and find an alternate route
+3 School Bus,What is a 'blind alley'?,A turnabout where you must back the bus,A crossing with no signs,A street with no lights,A turnabout where you must back the bus
+3 School Bus,"If you must back a school bus, you should:","Avoid it if possible, but use a lookout if you must",Back as quickly as you can,Never use your mirrors,"Avoid it if possible, but use a lookout if you must"
+3 School Bus,The emergency exit door must be:,Locked with a key from the outside,Closed and latched while the bus is in motion,Propelled open for ventilation,Closed and latched while the bus is in motion
+3 School Bus,"Before operating a school bus, you must check that the 'Stop Arm':",Is painted bright yellow,Can be removed easily,Extends fully and the lights flash,Extends fully and the lights flash
+3 School Bus,"When unloading students, they should be told to:",Walk at least 10 feet away from the side of the bus,Wait for the bus to move before crossing,Run to their house immediately,Walk at least 10 feet away from the side of the bus
+3 School Bus,"If you are following another school bus, you should:",Follow as closely as possible to stay together,Maintain a safe following distance,Flash your high beams constantly,Maintain a safe following distance
+3 School Bus,What is the most important part of the school bus pre-trip inspection?,The brand of the tires,All of the items related to student safety,The cleanliness of the floor,All of the items related to student safety
+3 School Bus,What is the 'Danger Zone' around a school bus?,The area on all sides of the bus where children are in most danger of being hit,The area inside the bus near the engine,The area exactly 5 feet behind the bus,The area on all sides of the bus where children are in most danger of being hit
+3 School Bus,How far does the danger zone extend around the bus?,Exactly 2 feet from the tires,"At least 10 feet from the front, rear, and sides",Only 30 feet behind the bus,"At least 10 feet from the front, rear, and sides"
+3 School Bus,Which area is considered the most dangerous part of the danger zone?,The left side of the bus,Directly in front of the bus,The rooftop,Directly in front of the bus
+3 School Bus,Crossover mirrors are used to see:,The passengers in the back seat,The danger zone directly in front of the bus,Vehicles in the left lane,The danger zone directly in front of the bus
+3 School Bus,How should you adjust the outside flat mirrors?,To see the passengers' faces,To see the sky,To see 200 feet behind the bus and the rear tires touching the ground,To see 200 feet behind the bus and the rear tires touching the ground
+3 School Bus,When should you activate your alternating flashing amber warning lights?,"Before every bus stop, as required by state law (usually 100-300 feet)",Only after you have come to a complete stop,Only if you see children running,"Before every bus stop, as required by state law (usually 100-300 feet)"
+3 School Bus,When must you activate the alternating red flashing lights?,When the bus is stopped to load or unload students,When driving on the highway,When the bus is parked at the school,When the bus is stopped to load or unload students
+3 School Bus,"If a student is missing after they have exited the bus, you should:","Secure the bus, take the key, and go look for them if necessary",Continue on your route and call the school later,Honk the horn until they appear,"Secure the bus, take the key, and go look for them if necessary"
+3 School Bus,"When loading students, you should tell them to wait for your signal and cross:",Behind the bus,At least 10 feet in front of the bus,Exactly at the front bumper,At least 10 feet in front of the bus
+3 School Bus,"At a railroad crossing, a school bus driver must:",Keep driving if no train is heard,"Stop, open the driver's window, and the service door",Stop only if the guard arms are down,"Stop, open the driver's window, and the service door"
+4 School Bus,The school bus must stop at a railroad crossing within:,15 to 50 feet of the nearest rail,Exactly 100 feet from the rail,5 to 10 feet of the nearest rail,15 to 50 feet of the nearest rail
+4 School Bus,If a police officer is at a railroad crossing signaling you to proceed:,You must get out and check the tracks yourself,You should follow the officer's signal and cross,You must still wait for the train to pass,You should follow the officer's signal and cross
+4 School Bus,What is an 'evacuation site'?,The student's front yard,A safe place away from the bus during an emergency,The bus garage,A safe place away from the bus during an emergency
+4 School Bus,"During an emergency evacuation, you should lead students:",Behind the bus near the tailpipe,To the nearest busy intersection,Upwind of the bus at least 100 feet,Upwind of the bus at least 100 feet
+4 School Bus,A 'passive' railroad crossing is one that:,Has a flagman,Does not have any flashing lights or gates,Is no longer in use,Does not have any flashing lights or gates
+4 School Bus,When should you check your mirrors during the loading process?,Continuously throughout the entire process,Only before you open the door,Only after the children are seated,Continuously throughout the entire process
+4 School Bus,The overhead inside rearview mirror is used to:,Adjust your hat,See the vehicle directly behind you,Monitor passenger activity inside the bus,Monitor passenger activity inside the bus
+4 School Bus,"If the gate at a railroad crossing stays down after a train passes, you should:",Call the dispatcher and find an alternate route,Get out and lift the gate manually,Drive around the gate slowly,Call the dispatcher and find an alternate route
+4 School Bus,What is a 'blind alley'?,A crossing with no signs,A street with no lights,A turnabout where you must back the bus,A turnabout where you must back the bus
+4 School Bus,"If you must back a school bus, you should:","Avoid it if possible, but use a lookout if you must",Never use your mirrors,Back as quickly as you can,"Avoid it if possible, but use a lookout if you must"
+4 School Bus,The emergency exit door must be:,Locked with a key from the outside,Closed and latched while the bus is in motion,Propelled open for ventilation,Closed and latched while the bus is in motion
+4 School Bus,"Before operating a school bus, you must check that the 'Stop Arm':",Is painted bright yellow,Can be removed easily,Extends fully and the lights flash,Extends fully and the lights flash
+4 School Bus,"When unloading students, they should be told to:",Wait for the bus to move before crossing,Walk at least 10 feet away from the side of the bus,Run to their house immediately,Walk at least 10 feet away from the side of the bus
+4 School Bus,"If you are following another school bus, you should:",Follow as closely as possible to stay together,Flash your high beams constantly,Maintain a safe following distance,Maintain a safe following distance
+4 School Bus,What is the most important part of the school bus pre-trip inspection?,The cleanliness of the floor,All of the items related to student safety,The brand of the tires,All of the items related to student safety
+4 School Bus,What is the 'Danger Zone' around a school bus?,The area exactly 5 feet behind the bus,The area inside the bus near the engine,The area on all sides of the bus where children are in most danger of being hit,The area on all sides of the bus where children are in most danger of being hit
+4 School Bus,How far does the danger zone extend around the bus?,"At least 10 feet from the front, rear, and sides",Exactly 2 feet from the tires,Only 30 feet behind the bus,"At least 10 feet from the front, rear, and sides"
+4 School Bus,Which area is considered the most dangerous part of the danger zone?,Directly in front of the bus,The left side of the bus,The rooftop,Directly in front of the bus
+4 School Bus,Crossover mirrors are used to see:,Vehicles in the left lane,The passengers in the back seat,The danger zone directly in front of the bus,The danger zone directly in front of the bus
+4 School Bus,How should you adjust the outside flat mirrors?,To see the sky,To see 200 feet behind the bus and the rear tires touching the ground,To see the passengers' faces,To see 200 feet behind the bus and the rear tires touching the ground

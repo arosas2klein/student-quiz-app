@@ -5,20 +5,18 @@ import pandas as pd
 import datetime
 import os
 
+# --- 1. DATA LOADING ---
 # Load users from the CSV file
 user_df = pd.read_csv("users.csv")
-# This creates a dictionary where the username is the key and password is the value
 USERS = dict(zip(user_df['username'].astype(str), user_df['password'].astype(str)))
 
-import pandas as pd
-
-# 1. Load the CSV file from your folder
+# Load questions from the CSV file
 df = pd.read_csv("questions.csv")
 
-# 2. Prepare the empty dictionary
+# Prepare the empty dictionary for tests
 TESTS = {}
 
-# 3. Fill the dictionary using the CSV data
+# Fill the dictionary using the CSV data
 for test_name, group in df.groupby("Test Name"):
     TESTS[test_name] = []
     for _, row in group.iterrows():
@@ -87,36 +85,40 @@ else:
         answers = []
         for i, q_data in enumerate(st.session_state.quiz_questions):
             st.write(f"**Question {i+1}**")
-            ans = st.radio(q_data['q'], q_data['options'], key=f"q_{i}")
+            # Added index=None so no option is pre-selected
+            ans = st.radio(q_data['q'], q_data['options'], key=f"q_{i}", index=None)
             answers.append((ans, q_data['correct']))
         
-       # This line creates the actual button and names it 'submitted'
         submitted = st.form_submit_button("Submit Exam")
 
         if submitted:
-            # Calculate the score
-            score = sum(1 for user_ans, correct in answers if user_ans == correct)
-            total = len(answers)
-            
-            st.divider()
-            st.header(f"Results for {st.session_state.user}")
-            st.metric("Final Score", f"{score} / {total}", f"{(score/total)*100:.1f}%")
-            
-            # --- REVIEW SECTION ---
-            st.subheader("Review your answers:")
-            for i, (user_ans, correct) in enumerate(answers):
-                question_text = st.session_state.quiz_questions[i]['q']
+            # CHECK: Ensure no questions were left blank
+            if any(user_ans is None for user_ans, correct in answers):
+                st.error("⚠️ You missed a question! Please answer all questions before submitting.")
+            else:
+                # Calculate the score
+                score = sum(1 for user_ans, correct in answers if user_ans == correct)
+                total = len(answers)
                 
-                if user_ans == correct:
-                    st.success(f"✅ Question {i+1}: {question_text}")
-                    st.write(f"Your answer: **{user_ans}** (Correct!)")
-                else:
-                    st.error(f"❌ Question {i+1}: {question_text}")
-                    st.write(f"Your answer: **{user_ans}**")
-                    st.write(f"The correct answer was: **{correct}**")
-            
-            # Save to the CSV file
-            log_result(st.session_state.user, test_name, score, total)
-            
-            if score == total:
-                st.balloons()
+                st.divider()
+                st.header(f"Results for {st.session_state.user}")
+                st.metric("Final Score", f"{score} / {total}", f"{(score/total)*100:.1f}%")
+                
+                # --- REVIEW SECTION ---
+                st.subheader("Review your answers:")
+                for i, (user_ans, correct) in enumerate(answers):
+                    question_text = st.session_state.quiz_questions[i]['q']
+                    
+                    if user_ans == correct:
+                        st.success(f"✅ Question {i+1}: {question_text}")
+                        st.write(f"Your answer: **{user_ans}** (Correct!)")
+                    else:
+                        st.error(f"❌ Question {i+1}: {question_text}")
+                        st.write(f"Your answer: **{user_ans}**")
+                        st.write(f"The correct answer was: **{correct}**")
+                
+                # Save to the CSV file
+                log_result(st.session_state.user, test_name, score, total)
+                
+                if score == total:
+                    st.balloons()

@@ -6,17 +6,12 @@ import datetime
 import os
 
 # --- 1. DATA LOADING ---
-# Load users from the CSV file
 user_df = pd.read_csv("users.csv")
 USERS = dict(zip(user_df['username'].astype(str), user_df['password'].astype(str)))
 
-# Load questions from the CSV file
 df = pd.read_csv("questions.csv")
-
-# Prepare the empty dictionary for tests
 TESTS = {}
 
-# Fill the dictionary using the CSV data
 for test_name, group in df.groupby("Test Name"):
     TESTS[test_name] = []
     for _, row in group.iterrows():
@@ -27,23 +22,20 @@ for test_name, group in df.groupby("Test Name"):
         })
 
 # --- 2. LOGIC FUNCTIONS ---
-def make_hash(password):
-    return hashlib.sha256(str.encode(password)).hexdigest()
-
 def log_result(user, test, score, total):
     file_path = "test_results.csv"
     new_data = pd.DataFrame([{
-        "Timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "Timestamp": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "Student": user,
         "Test": test,
         "Score": f"{score}/{total}",
         "Percentage": f"{(score/total)*100:.1f}%"
     }])
-    # Append to CSV
+    # Save record to CSV
     new_data.to_csv(file_path, mode='a', index=False, header=not os.path.exists(file_path))
 
 # --- 3. APP INTERFACE ---
-st.set_page_config(page_title="Secure Exam Portal")
+st.set_page_config(page_title="Secure Exam Portal", layout="wide")
 
 if 'auth' not in st.session_state:
     st.session_state.auth = False
@@ -62,20 +54,41 @@ if not st.session_state.auth:
         else:
             st.error("Access Denied: Incorrect credentials.")
 
-# Exam Screen
+# Authenticated Area
 else:
-    st.sidebar.title(f"User: {st.session_state.user}")
+    st.sidebar.title(f"Welcome, {st.session_state.user}")
+    
+    # --- TEACHER DASHBOARD (Only for you) ---
+    # Replace 'rosas2' with your actual username from users.csv
+    if st.session_state.user == 'rosas2':
+        st.sidebar.divider()
+        st.sidebar.subheader("🍎 Teacher Tools")
+        show_records = st.sidebar.checkbox("View Student Records")
+        
+        if show_records:
+            st.title("📊 Student Activity Log")
+            if os.path.exists("test_results.csv"):
+                records_df = pd.read_csv("test_results.csv")
+                # Show newest results first
+                st.dataframe(records_df.iloc[::-1], use_container_width=True)
+                
+                # Option to download the log
+                csv = records_df.to_csv(index=False).encode('utf-8')
+                st.download_button("Download Full Report (CSV)", csv, "class_results.csv", "text/csv")
+            else:
+                st.info("No records found yet. Once students submit a test, they will appear here.")
+            st.stop() # Stops the quiz from showing when you are looking at records
+
+    # --- QUIZ SECTION ---
     if st.sidebar.button("Logout"):
         st.session_state.auth = False
         st.rerun()
 
     test_name = st.selectbox("Select your assigned test:", list(TESTS.keys()))
     
-    # Initialize/Shuffle questions for this specific session
     if 'quiz_questions' not in st.session_state or st.button("New Question Shuffle"):
         questions = TESTS[test_name].copy()
         random.shuffle(questions)
-        # Also shuffle the options within each question
         for q in questions:
             random.shuffle(q['options'])
         st.session_state.quiz_questions = questions
@@ -85,18 +98,15 @@ else:
         answers = []
         for i, q_data in enumerate(st.session_state.quiz_questions):
             st.write(f"**Question {i+1}**")
-            # Added index=None so no option is pre-selected
             ans = st.radio(q_data['q'], q_data['options'], key=f"q_{i}", index=None)
             answers.append((ans, q_data['correct']))
         
         submitted = st.form_submit_button("Submit Exam")
 
         if submitted:
-            # CHECK: Ensure no questions were left blank
             if any(user_ans is None for user_ans, correct in answers):
-                st.error("⚠️ You missed a question! Please answer all questions before submitting.")
+                st.error("⚠️ Please answer all questions before submitting.")
             else:
-                # Calculate the score
                 score = sum(1 for user_ans, correct in answers if user_ans == correct)
                 total = len(answers)
                 
@@ -104,21 +114,15 @@ else:
                 st.header(f"Results for {st.session_state.user}")
                 st.metric("Final Score", f"{score} / {total}", f"{(score/total)*100:.1f}%")
                 
-                # --- REVIEW SECTION ---
-                st.subheader("Review your answers:")
+                log_result(st.session_state.user, test_name, score, total)
+                
+                # Review Section
                 for i, (user_ans, correct) in enumerate(answers):
                     question_text = st.session_state.quiz_questions[i]['q']
-                    
                     if user_ans == correct:
-                        st.success(f"✅ Question {i+1}: {question_text}")
-                        st.write(f"Your answer: **{user_ans}** (Correct!)")
+                        st.success(f"✅ Q{i+1}: Correct")
                     else:
-                        st.error(f"❌ Question {i+1}: {question_text}")
-                        st.write(f"Your answer: **{user_ans}**")
-                        st.write(f"The correct answer was: **{correct}**")
-                
-                # Save to the CSV file
-                log_result(st.session_state.user, test_name, score, total)
+                        st.error(f"❌ Q{i+1}: Incorrect. (Correct: {correct})")
                 
                 if score == total:
                     st.balloons()

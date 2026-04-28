@@ -59,7 +59,7 @@ else:
     st.sidebar.title(f"Welcome, {st.session_state.user}")
     
     # --- TEACHER DASHBOARD (Only for you) ---
-    # Replace 'rosas2' with your actual username from users.csv
+    # Replace 'arosas2' with your actual username from users.csv
     if st.session_state.user == 'rosas2':
         st.sidebar.divider()
         st.sidebar.subheader("🍎 Teacher Tools")

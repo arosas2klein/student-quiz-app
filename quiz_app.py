@@ -60,7 +60,7 @@ else:
     
     # --- TEACHER DASHBOARD (Only for you) ---
     # Replace 'arosas2' with your actual username from users.csv
-    if st.session_state.user == 'rosas2':
+    if st.session_state.user == 'arosas2':
         st.sidebar.divider()
         st.sidebar.subheader("🍎 Teacher Tools")
         show_records = st.sidebar.checkbox("View Student Records")
